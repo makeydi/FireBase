@@ -1,0 +1,40 @@
+body {
+    padding: 50px;
+}
+
+.form {
+    width: 1100px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: darkgrey;
+    padding: 150px 50px 50px 50px;
+    font-size: 30px;
+    display: flex;
+}
+
+input {
+    height: 30px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.save-button {
+    height: 35px;
+    width: 70px;
+    font-weight: bold;
+}
+
+.input-name {
+    margin-right: 15px;
+}
+
+.display {
+    width: 300px;
+    border: solid black 2px;
+    min-height: 30px;
+    background-color: white;
+    margin-left: 15px;
+    font-size: 25px;
+    display: block;
+    padding: 10px;
+}
