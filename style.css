@@ -19,9 +19,10 @@ input {
 }
 
 .save-button {
-    height: 35px;
+    height: 37px;
     width: 70px;
     font-weight: bold;
+    font-size: 20px;
 }
 
 .input-name {
